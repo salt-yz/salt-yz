@@ -1,9 +1,9 @@
-<h1>👋 Hi, I’m @yuzuumez</h1>
+<h1>👋 Hi, I’m @salt-yz</h1>
 
+ゆずしおです
+👀 I’m interested in PHP, HTML, CSS, Ruby and so on
 
-👀 I’m interested in PHP, HTML, CSS, Java and so on
-
-🌱 I’m currently learning PHP
+🌱 I’m currently learning Python
 
 
 
