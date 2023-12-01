@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @salt-yz</h1>
 
-ゆずしおです<br>
+
 👀 I’m interested in PHP, HTML, CSS, Ruby and so on
 
 🌱 I’m currently learning Python
